@@ -2,7 +2,7 @@
 
 
 Order | Lecture | Lab | Cheatsheet 
------------- | ------------- | ------------ | ------------- | ------------- 
+------------ | ------------- | ------------ | ------------- 
 #1 | [Intro to ML & AI 1: Neural Networks](#) | [Lab](#) | [Cheatsheet](#) 
 #2 | [Intro to ML & AI 2: Tokenization & more](#) | [Lab](#) | [Cheatsheet](#) 
 #3 | [Intro to Android Studio](https://docs.google.com/presentation/d/1oJED_hHiVOVb1P9d4A0bUynpLEsbxv9mj8wMM94Gq9s/edit?usp=sharing) | [Lab](https://github.com/meet-projects/Intro-Android-Lab) | [Cheatsheet](https://docs.google.com/document/d/1SOXB2_ziWc2D2TdblM9nVm2P3aK2PpZzZY1xQpTHxdQ/) 
